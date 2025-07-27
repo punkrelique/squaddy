@@ -21,7 +21,7 @@ export SQUADDY_STEAM_API_KEY=your_steam_api_key
 3. **Run the script**:  
 Execute the script with the required arguments:
 ```sh 
-dotnet fsi script.fsx <username> <caseComparison> <matchType> 
+dotnet fsi squaddy.fsx <username> <caseComparison> <matchType> 
 ```  
 - `<username>`: The username to search for.
     - `<caseComparison>`: The case comparison type. Options are:
